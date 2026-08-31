@@ -1,0 +1,26 @@
+========================================
+         PROPERTY FINDER - DSA          
+========================================
+
+Enter search pattern: Gachiboli
+Did you mean: 'Gachibowli'? (Similarity: 90.0%)
+Do you want to search for 'Gachibowli' instead? (y/n): y
+
+Select algorithm (1: Naive, 2: KMP, 3: Z, 4: Rabin-Karp, 5: Boyer-Moore): 2
+
+[KMP Algorithm Running...]
+
+Found 2 matches:
+----------------------------------------
+Property ID: HYD001 
+Title: Luxury 3 BHK Apartment
+Location: Gachibowli
+Amenities: Pool, Gym, Security
+----------------------------------------
+Property ID: HYD014 
+Title: IT Corridor Studio
+Location: Gachibowli
+Amenities: Parking, Gym
+----------------------------------------
+Search completed in 12 ms.
+Algorithm Used: KMP
