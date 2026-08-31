@@ -1,16 +1,14 @@
 # Property Finder - DSA Project
 
-**Team Members:**
-+-----------+------------+
-| Team      | ID         |
-+-----------+------------+
+## Team Members
+
+| Team | ID |
+|------|------------|
 | Yashwanth | 2520030259 |
-| Bharath   | 2520030169 |
-| Praneeth  | 2520030186 |
-+-----------+------------+
+| Bharath | 2520030169 |
+| Praneeth | 2520030186 |
 
-
-**Supervisor:** [Supervisor Name -> Dr.V.Sireesha]
+**Supervisor:** Dr. V. Sireesha
 
 ## Abstract
 The objective of this project is to build a Java-based Property Finder prototype focusing on efficient property searching using multiple **String Matching and Pattern Matching Algorithms**. This is an educational Data Structures and Algorithms (DSA) project aimed at demonstrating the manual implementation of standard search algorithms without relying on Java's built-in string searching utilities like `indexOf()` or `contains()`.
