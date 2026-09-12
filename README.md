@@ -1,13 +1,11 @@
 # Property Finder - DSA Project
 
 **Team Members:**
-+-----------+------------+
 | Team      | ID         |
-+-----------+------------+
+| :-------- | :--------- |
 | Yashwanth | 2520030259 |
 | Bharath   | 2520030169 |
 | Praneeth  | 2520030186 |
-+-----------+------------+
 
 
 **Supervisor:** Dr.V.Sireesha
