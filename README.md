@@ -382,12 +382,6 @@ Adjacent & Neighboring Districts (BFS Hops = 1 to 2):
 | **CLI & Web Interfaces** | ✅ Completed | Interactive ANSI-colored CLI terminal & lightweight Web REST UI. |
 | **Current Phase** | 🚀 **Production-Ready / Final Evaluation** | Fully verified, tested, documented, and ready for viva demonstration. |
 
----
-
-<div align="center">
-  <b>Developed for Department of Computer Science & Engineering</b><br>
-  <i>Data Structures & Algorithms (DSA-3) Project — Team 15</i>
-</div>
 
 
 
@@ -398,3 +392,9 @@ Adjacent & Neighboring Districts (BFS Hops = 1 to 2):
 | **Yashwanth** | Project architecture, problem statement, property data model, core property search, Naive String Matching, KMP, Z Algorithm, Rabin-Karp, and Boyer-Moore. |
 | **Bharat** | Levenshtein Distance, typo correction, Trie autocomplete, BFS for nearby districts, 0/1 Knapsack for investor mode, randomized Quicksort, and property optimization. |
 | **Pranit** | Frontend development using HTML, CSS, and JavaScript; Java HTTP server API integration, HTTP requests, JSON responses, property cards, system testing, results, and live demonstration. |
+---
+
+<div align="center">
+  <b>Developed for Department of Computer Science & Engineering</b><br>
+  <i>Data Structures & Algorithms (DSA-3) Project — Team 15</i>
+</div>
