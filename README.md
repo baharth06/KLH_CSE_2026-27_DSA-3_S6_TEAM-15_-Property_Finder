@@ -6,15 +6,18 @@
 
 ## 👥 Project Team & Mentorship
 
-| Role | Name | ID / Roll Number | Department |
+| Name | ID / Roll Number |
 | :--- | :--- | :--- | :--- |
-| **Team Member** | Yashwanth | `2520030259` | CSE (DSA-3) |
-| **Team Member** | Bharath | `2520030169` | CSE (DSA-3) |
-| **Team Member** | Praneeth | `2520030186` | CSE (DSA-3) |
-| **Supervisor** | **Dr. V. Sireesha** | — | Faculty Mentor |
+| Yashwanth | `2520030259` |
+| Bharath | `2520030169` | 
+ | Praneeth | `2520030186` | 
+
 
 ---
 
+---
+| **Dr. V. Sireesha**  | Faculty Mentor |
+---
 ## 📑 Table of Contents
 1. [Abstract](#-1-abstract)
 2. [Problem Statement](#-2-problem-statement)
