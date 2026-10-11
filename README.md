@@ -6,12 +6,12 @@
 
 ## 👥 Project Team & Mentorship
 
-| Name | ID / Roll Number |
-| :--- | :--- | :--- | :--- |
-| Yashwanth | `2520030259` |
-| Bharath | `2520030169` | 
- | Praneeth | `2520030186` | 
 
+| **Name** | ID / Roll Number |
+| :--- | :--- |
+| **Yashwanth** | `2520030259` |
+| **Bharath** | `2520030169` | 
+| **Praneeth** | `2520030186` |
 
 ---
 
