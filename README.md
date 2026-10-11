@@ -7,16 +7,14 @@
 ## 👥 Project Team & Mentorship
 
 
-| **Name** | ID / Roll Number |
+| **Name** |  Roll Number |
 | :--- | :--- |
 | **Yashwanth** | `2520030259` |
 | **Bharath** | `2520030169` | 
 | **Praneeth** | `2520030186` |
 
 ---
-
----
-| **Dr. V. Sireesha**  | Faculty Mentor |
+`Faculty Mentor: Dr. V. Sireesha`
 ---
 ## 📑 Table of Contents
 1. [Abstract](#-1-abstract)
