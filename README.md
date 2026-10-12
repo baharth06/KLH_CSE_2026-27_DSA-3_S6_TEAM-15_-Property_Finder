@@ -30,7 +30,7 @@
 11. [Sample Demonstrations & CLI Walkthrough](#-11-sample-demonstrations--cli-walkthrough)
 12. [Future Extensions](#-12-future-extensions)
 13. [Current Phase Status](#-13-current-phase-status)
-
+14.[Each Member Contributions](##-14-Contributions)
 ---
 
 ## 📌 1. Abstract
@@ -385,7 +385,7 @@ Adjacent & Neighboring Districts (BFS Hops = 1 to 2):
 
 
 
-## Contributions
+## 📌 14. Contributions
 
 | Member | Contributions |
 |---|---|
