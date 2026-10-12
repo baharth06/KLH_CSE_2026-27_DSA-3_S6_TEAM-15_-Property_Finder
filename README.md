@@ -3,7 +3,7 @@
 > *Educational Data Structures & Algorithms (DSA) Project — Telangana Edition*
 Batch No: 15
 ---
-
+Batch No: 15
 ## 👥 Project Team & Mentorship
 
 
