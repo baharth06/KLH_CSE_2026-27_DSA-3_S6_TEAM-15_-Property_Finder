@@ -389,9 +389,9 @@ Adjacent & Neighboring Districts (BFS Hops = 1 to 2):
 
 | Member | Contributions |
 |---|---|
-| **Yashwanth** | Project architecture, problem statement, property data model, core property search, Naive String Matching, KMP, Z Algorithm, Rabin-Karp, and Boyer-Moore. |
+| **Yashwanth** | Project architecture, problem statement, property data model, core property search, Naive String Matching, Z Algorithm,. |
 | **Bharat** | Levenshtein Distance, typo correction, Trie autocomplete, BFS for nearby districts, 0/1 Knapsack for investor mode, randomized Quicksort, and property optimization. |
-| **Pranit** | Frontend development using HTML, CSS, and JavaScript; Java HTTP server API integration, HTTP requests, JSON responses, property cards, system testing, results, and live demonstration.|
+| **Pranit** | Frontend development using HTML, CSS, and JavaScript; Java HTTP server API integration, HTTP requests, JSON responses, property cards, system testing, results, and live demonstration,KMP, Rabin-Karp, and Boyer-Moore .|
 ---
 
 <div align="center">
